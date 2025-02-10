@@ -7,5 +7,5 @@
 ## My recent situation🖥️  
 
 - 🔖Try learning Python  
-- 😉Try writing a little piece of software of my own  
+
   
