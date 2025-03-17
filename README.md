@@ -6,6 +6,7 @@
 
 ## My recent situation🖥️  
 
-- 🔖Try learning Python  
+- 🔖Now learning C++&CMake
+- 🗺️ Exploring 
 
   
