@@ -7,7 +7,6 @@
 ## My recent situation🖥️  
 
 - 🔖Now learning C++&ACM
-- 🗺️ Exploring
-- OK,Now I found it maybe hard for me to understand something
-
+- 🗺️Exploring
+- 🤯Keep learning :)
   
