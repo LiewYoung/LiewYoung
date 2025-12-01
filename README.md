@@ -6,7 +6,7 @@
 
 ## My recent situation🖥️  
 
-- 🔖Now learning C++&ACM OK NOW included JAVA \:?~?:/
+- 🔖Now learning C++&ACM OK NOW included JAVA \\:?~?:/
 - 🗺️Exploring
 - 🤯Keep learning :)
   
